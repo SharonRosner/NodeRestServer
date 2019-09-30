@@ -1,0 +1,5 @@
+[
+    {"id": 1, "title": "MyBus1", "description": "A new one"},
+    {"id": 2, "title": "MyBus2", "description": "An old one"},
+    {"id": 3, "title": "MyBus3", "description": "A total loss"}
+]
